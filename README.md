@@ -1,5 +1,7 @@
 # 이벤트 객체 프로퍼티
 
+### 주소 : https://seojoonh.github.io/todolist
+
 강의 중 to do list 만들기 내용 중, <br>
 복습 및 익숙해지기 위해 따로 만들어 본 버킷 리스트
 
