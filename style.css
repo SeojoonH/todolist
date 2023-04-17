@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+
+.bucket-list {
+  width: 400px;
+  height: 460px;
+  background-color: #f6e2ff;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 8px 8px 8px rgba(0, 0, 0, 10);
+}
+
+.bucket-list > h1 {
+  font-size: 30px;
+  font-weight: 700;
+  color: blueviolet;
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: 1px dotted blueviolet;
+}
+
+#to-do-list {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 0;
+  margin: 40px 0;
+  color: palevioletred;
+}
+
+#to-do-list > li:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.done {
+  opacity: .6;
+  color: black;
+  text-decoration: line-through;
+}
