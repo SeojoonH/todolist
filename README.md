@@ -1,4 +1,4 @@
-# 이벤트 객체 프로퍼티
+# 버킷리스트(To Do List) 만들기
 
 ### 주소 : https://seojoonh.github.io/todolist
 
